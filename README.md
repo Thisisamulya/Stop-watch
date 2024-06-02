@@ -1,7 +1,7 @@
 # Stop-watch
 
 
-A stop watch developed using JavaSript 
+A stop watch developed using JavaScript 
 
 🔗 Link for the application is provided in the "About" section of the repository 😊
 
