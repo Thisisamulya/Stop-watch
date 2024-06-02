@@ -3,7 +3,7 @@
 
 A stop watch developed using JavaSript 
 
-Link for the application is provided in the "About" section of the repository 😊
+🔗 Link for the application is provided in the "About" section of the repository 😊
 
 ⚠️Responsive to mobiles 📱 only ❗❗
 
