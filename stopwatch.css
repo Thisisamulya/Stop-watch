@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    min-height: 80vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(138, 255, 152);
+}
+.container{
+    border:1px solid black;
+    text-align: center;
+    border-radius: 40px;
+    background-color: rgb(37, 177, 53);
+    box-shadow: 12px 13px 8px rgb(146, 145, 145);
+}
+h1{
+    font-size: 100px;
+    margin:50px 100px 50px 100px;
+    color: white;
+}
+p{
+    font-size: 150px;
+    color: white;
+}
